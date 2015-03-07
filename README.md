@@ -1,4 +1,4 @@
-# The Shmowzow Esoteric Language
+# Shmowzow Examples
 
 ![Shmowzow](https://raw.githubusercontent.com/shmowzow/shmowzow-lang/master/shmowzow.gif)
 
